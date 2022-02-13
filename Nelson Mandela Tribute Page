@@ -1,0 +1,14 @@
+<html>
+<head>
+</head>
+<body>
+<div id="main">
+
+<h1 id="title"> Nelson Mandela </h1>
+<div id="img-div">
+<img src="C:\Users\stepe\OneDrive\Documents\Tribute Page/Nelson_Mandela.jpg" alt="Nelson Mandela" id="image">
+<p> Nelson Mandela Sitting On Chair </p>
+</div>
+</div>
+</body>
+</html>
